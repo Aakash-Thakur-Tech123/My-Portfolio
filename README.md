@@ -12,9 +12,9 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 
 
-## Author
+# Author
 
-👤 **Aras Güngöre**
+👤 **Aakash Thakur**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/aakash-thakur-tech2022)
-* GitHub: [@arasgungore](https://github.com/Aakash-Thakur-Tech123)
+* LinkedIn: [@aakashthakur](https://www.linkedin.com/in/aakash-thakur-tech2022)
+* GitHub: [@aakashthakur](https://github.com/Aakash-Thakur-Tech123)
