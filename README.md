@@ -1,6 +1,6 @@
 # aakash-thakur-tech123.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io](https://aakash-thakur-tech123.github.io/My-Portfolio/).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here]([https://arasgungore.github.io](https://aakash-thakur-tech123.github.io/My-Portfolio/)).
 
 
 ## Screenshots
